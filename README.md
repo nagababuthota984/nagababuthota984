@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello there 👋
 
-<!--
-**nagababuthota984/nagababuthota984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Nagababu Thota, fascinated by software running the world.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on developing full stack applications using WPF and .NET Tech Stack.
+- 🌱 I’m currently learning more of WPF, and how to build software efficiently.
+- 👯 I’m looking to collaborate on WPF, Caliburn Micro, Mahapps.Metro, DJango 
+- 📫 How to reach me: nagababuthota593@gmail.com
+- ⚡ Fun fact: Everything special about us comes from a laptop and a coffee cup.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[HackerRank](https://www.hackerrank.com/n18BQ1A05K3) | [Blog](https://nagababuthota984.hashnode.dev/) | [Twitter](https://twitter.com/nb_thota) | [Linkedin](https://www.linkedin.com/in/nagababu-thota-557173181/)
+
+
+
