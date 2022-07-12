@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-### I am Nagababu Thota, fascinated by software running the world.
+### I am Nagababu Thota, Software developer from Hyderabad, India
 
 - 🔭 I’m currently working on developing full stack applications using WPF and .NET Tech Stack.
 - 🌱 I’m currently learning more of WPF, and how to build software efficiently.
