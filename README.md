@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on developing full stack applications using WPF and .NET Tech Stack.
 - 🌱 I’m currently learning more of WPF, and how to build software efficiently.
-- 👯 I’m looking to collaborate on WPF, Caliburn Micro, Mahapps.Metro, DJango 
+- 👯 I’m looking to collaborate on WPF, Caliburn Micro, Mahapps.Metro, DJango and angular.
 - 📫 How to reach me: nagababuthota593@gmail.com
 - ⚡ Fun fact: Everything special about us comes from a laptop and a coffee cup.
 
