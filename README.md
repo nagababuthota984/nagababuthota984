@@ -2,9 +2,10 @@
 
 ### I am Nagababu Thota, Software developer from Hyderabad, India
 
-- 🔭 I’m currently working on developing full stack applications using WPF and .NET Tech Stack.
-- 🌱 I’m currently learning more of WPF, and how to build software efficiently.
-- 👯 I’m looking to collaborate on WPF, Caliburn Micro, Mahapps.Metro, DJango and angular.
+- 🔭 I am a Software Developer with experience in WPF and currently learning Angular, working with .NET tech stack. 
+- ⚡ I am passionate about coding, problem-solving and always strive to learn and improve.
+- 🌱 I’m currently learning angular, and how to build software efficiently.
+- 👯 I’m looking to collaborate on WPF, angular and anything related to C# and .NET.
 - 📫 How to reach me: nagababuthota593@gmail.com
 - ⚡ Fun fact: Everything special about us comes from a laptop and a coffee cup.
 
