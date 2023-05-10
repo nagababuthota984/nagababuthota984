@@ -8,6 +8,7 @@
 - 👯 I’m looking to collaborate on WPF, angular and anything related to C# and .NET.
 - 📫 How to reach me: nagababuthota593@gmail.com
 - ⚡ Fun fact: Everything special about us comes from a laptop and a coffee cup.
+
 🧰 Tech Stack
 
 Here are some of the technologies and tools I have been working on:
