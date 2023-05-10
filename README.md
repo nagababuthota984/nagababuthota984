@@ -6,7 +6,6 @@
 - ⚡ I am passionate about coding, problem-solving and always strive to learn and improve.
 - 🌱 I’m currently learning angular, and how to build software efficiently.
 - 👯 I’m looking to collaborate on WPF, angular and anything related to C# and .NET.
-- 
 🧰 Tech Stack
 
 Here are some of the technologies and tools I have been working on:
