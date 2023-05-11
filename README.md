@@ -12,11 +12,11 @@
 🧰 Tech Stack
 
 Here are some of the technologies and tools I have been working on:
-
-    Languages: C#, JavaScript, HTML, CSS
-    Frameworks/Libraries: WPF, Angular, .NET Framework, .NET Core, Entity Framework
-    Databases: SQL Server, MySQL, SQLite
-    Tools: Visual Studio, Visual Studio Code, Git, Azure DevOps
+- Languages: C#, JavaScript, HTML, CSS
+- Frameworks/Libraries: WPF, Angular, .NET Framework, .NET Core, Entity Framework
+- Databases: SQL Server, MySQL, SQLite
+- Tools: Visual Studio, Visual Studio Code, Git, Azure DevOps
+    
 
 
 [HackerRank](https://www.hackerrank.com/n18BQ1A05K3) | [Blog](https://nagababuthota984.hashnode.dev/) | [Twitter](https://twitter.com/nb_thota) | [Linkedin](https://www.linkedin.com/in/nagababu-thota-557173181/)
