@@ -12,7 +12,7 @@
 
 Here are some of the technologies and tools I have been working on:
 - Languages: C#, JavaScript
-- Frameworks/Libraries: WPF, Angular, .NET Framework, .NET Core, Entity Framework
+- Frameworks/Libraries: WPF, Angular, .NET Framework, .NET Core, Entity Framework, Terraform
 - Databases: SQL Server, MySQL, SQLite
 - Tools: Visual Studio, Visual Studio Code, Git, Azure DevOps
     
